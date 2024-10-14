@@ -1,8 +1,5 @@
 ## Usage
 
-```
-change config.env file in config folder
-```
 
 ```
  npm install
